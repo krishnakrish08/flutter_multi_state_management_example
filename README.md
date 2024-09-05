@@ -1,6 +1,9 @@
 # flutter_multiple_state_managements_in_one
 
-A new Flutter project.
+A Multi State Flutter project.
+
+## ToDo:
+This repository has issues. Need to fix
 
 ## Getting Started
 
