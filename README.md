@@ -3,7 +3,7 @@
 A Multi State Flutter project.
 
 ## ToDo:
-This repository has issues. Need to fix
+This repository has issues. Need to fix. This project has Provider, Inherited and Bloc State management techniques.
 
 ## Getting Started
 
